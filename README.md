@@ -8,11 +8,11 @@ This script captures video stream from your device's camera and displays it in a
 
 # Usage
 - Install the required packages:
--- pip install opencv-python
--- pip install streamlit
+* pip install opencv-python
+* pip install streamlit
 - Run the script:
---python motion_detector.py
--Click the "Start Camera" button in the Streamlit app to start capturing video stream.
+* python motion_detector.py
+- Click the "Start Camera" button in the Streamlit app to start capturing video stream.
 
 # Key Features
 - Video stream from device camera is displayed in a Streamlit app.
